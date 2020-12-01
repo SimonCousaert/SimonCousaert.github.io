@@ -2,7 +2,6 @@
 title: "Academic Projects"
 permalink: /academic-projects/
 header:
-  image: "/images/zakim.jpg"
 ---
 
 
