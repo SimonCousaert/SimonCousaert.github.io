@@ -7,7 +7,7 @@ classes: wide
 ---
 
 
-## *Internship @ Delaware - Profisee*
+## *Summer Internship @ Delaware - Goden Record Management*
 
 Built a structured Golden Record Management solution with Profisee, based on a client case study data set of 500,000 records. Applied concepts of Data Modeling, Matching, Survivorship, Harmonizing and Data Stewardship.   
 
@@ -27,6 +27,6 @@ My task: Online advertising of events, analyzing performance of advertentions, o
 Market potential analysis, looking for foreign manufacturers, online advertising and marketing of my own white-label product: [Heiwa - Jade Roller](https://www.amazon.com/Jade-Roller-Scraper-Massage-Tool/dp/B077KTPBKP). Sold all 100 units. 
 
 
-## *Internship @ Beedrop - Tableau reports*
+## *Summer Internship @ Beedrop - Business Intelligence*
 
 Beedrop was an online Belgian retailer platform. I reported on sales, marketing results and customer data with Tableau. Obtained critical insights top and worst selling products, visualized information on coupons and their succes and low-level analysis of product combinations.
