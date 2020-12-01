@@ -3,7 +3,7 @@ layout: archive
 permalink: /extracurricular-projects/
 title: "Extracurricular Projects"
 author_profile: true
-header:
+classes: wide
 ---
 
 
