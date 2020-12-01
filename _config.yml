@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Simon Cousaert"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/ProfPic.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Portfolio"
   location         : "Ghent, Belgium"
   email            : "simon.cousaert@outlook.com"
