@@ -6,6 +6,8 @@ author_profile: true
 classes: wide
 ---
 
+****
+
 # Ghent University
 
 ## *Master Dissertation - Using Generative Adversarial Networks as upsampling technique*
