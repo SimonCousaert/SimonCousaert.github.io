@@ -6,6 +6,7 @@ author_profile: true
 classes: wide
 ---
 
+****
 
 ## *Summer Internship @ Delaware - Goden Record Management*
 
