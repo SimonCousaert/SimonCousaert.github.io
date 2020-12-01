@@ -1,7 +1,9 @@
 ---
-title: "Academic Projects"
+layout: archive
 permalink: /academic-projects/
-header:
+title: "Academic Projects"
+author_profile: true
+classes: wide
 ---
 
 
