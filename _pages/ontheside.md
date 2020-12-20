@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /extracurricular-projects/
+permalink: /on-the-side/
 title: "On-the-side"
 author_profile: true
 classes: wide
