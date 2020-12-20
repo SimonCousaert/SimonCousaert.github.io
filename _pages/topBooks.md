@@ -1,7 +1,9 @@
 ---
-title: "Top Books"
+layout: archive
 permalink: /top-books/
-header:
+title: "Top Books"
+author_profile: true
+classes: wide
 ---
 ****
 
