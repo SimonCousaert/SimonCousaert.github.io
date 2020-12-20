@@ -7,6 +7,7 @@ classes: wide
 ---
 ****
 
-## *6-month Internship @ Keyrock - Business Analyst*
+## *1/ The Daily Stoic - Ryan Holiday*
 
 Analyzing business opportunities to reduce churn, upsell 
+
