@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /extracurricular-projects/
-title: "Extracurricular Projects"
+title: "On-the-side"
 author_profile: true
 classes: wide
 ---
