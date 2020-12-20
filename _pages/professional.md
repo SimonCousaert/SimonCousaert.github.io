@@ -1,8 +1,11 @@
 ---
-title: "Professional Career"
+layout: archive
 permalink: /professional-career/
-header:
+title: "Professional Career"
+author_profile: true
+classes: wide
 ---
+
 ****
 
 ## *6-month Internship @ Keyrock - Business Analyst*
