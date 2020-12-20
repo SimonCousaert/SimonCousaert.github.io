@@ -37,9 +37,9 @@ Applying traditional finance methodologies could prove worthwhile in the intrigu
 
 
 This site is structured as follows
-- *Academic page*: Here you'll find the projects that I did during my 5 year period at Ghent university. These projects were assigned by the university. 
-- *Extracurricular page*: This page showcases a number of projects that I did, not affiliated with the university. This is what ate most of my free time back then. 
-- *Professional page*: Enumeration of jobs that I filled, as part of my professional career. 
+- *Academic page*: A list of university-assigned projects. For now it only includes assignments during the 5-year period at Ghent University
+- *Extracurricular page*: This page showcases a number of projects that I did while studying, but they are not affiliated with the university. 
+- *Professional page*: Enumeration of jobs that I filled, as part of my professional career. Started in 2020 during my deferral year and will continue after the MSc in London.
 - *Top Books*: In addition to all this work-related information, I will share the best books that I have been reading in recent times. 
 
 
