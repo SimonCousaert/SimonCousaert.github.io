@@ -18,10 +18,10 @@ In 2019, I started to plan my early steps in what I hope to be a career in which
 
 
 I realized that experiences abroad might pave the way to these goals, so I applied for different programs across the globe. 
-I got a significant scholarship to go to the US, and got allowed into universities in Paris and in London. 
+I got a significant scholarship to go to the US (but was obliged to reject it because of COVID-19), and got allowed into universities in Paris and in London. 
 
 
-When COVID-19 struck, I was lucky enough to defer my admission to September 2021. For a number of reasons, I decided to do the 
+When COVID-19 struck in February 2020, I was lucky enough to defer my admission to September 2021. For a number of reasons, I decided to do the 
 [MSc in Computational Finance](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/computational-finance-msc). Combining my background in 
 Business and Management with more technical skills at the faculty of Computer Science seems like a perfect way to boost my early career. 
 
@@ -37,9 +37,10 @@ Applying traditional finance methodologies could prove worthwhile in the intrigu
 
 
 This site is structured as follows
-- Academic page: Here you'll find the projects that I did during my 5 year period at Ghent university. These projects were assigned by the university. 
-- Extracurricular page: This page showcases projects that I did, not affiliated with the university. This is what ate most of my free time back then. 
-- Professional page: Enumeration of jobs that I filled, as part of my professional career. 
+- *Academic page*: Here you'll find the projects that I did during my 5 year period at Ghent university. These projects were assigned by the university. 
+- *Extracurricular page*: This page showcases a number of projects that I did, not affiliated with the university. This is what ate most of my free time back then. 
+- *Professional page*: Enumeration of jobs that I filled, as part of my professional career. 
+- *Top Books*: In addition to all this work-related information, I will share the best books that I have been reading in recent times. 
 
 
 Cheers, 
