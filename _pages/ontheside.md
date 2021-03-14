@@ -8,6 +8,10 @@ classes: wide
 
 ****
 
+## *Internship @ GoodGhosting - Business Developer (2020-2021)*
+
+At Keyrock, I got acquainted with cryptocurrencies, Web3, DeFi and more blockchain related matters. The decentralized aspect of many of these applications spoke to me in a way few technologies did so far, it was truly refreshing. To build on that momentum, I was lucky enough to join [GoodGhosting](https://goodghosting.com/#/) as an intern. This company offers a platform that allows users to save their funds, boosted with gamified incentives. A small and dedicated team was building a quality product, and I helped to take off the business pre-MVP.
+
 ## *DXC Digital Masterclass - Conceptual Digital Twin (2020)*
 
 Participated in a project with the goal of thinking out a conceptual digital twin for BPost, Belgium’s leading postal operator. My contribution mainly focused on researching which data was needed and how it could be collected throughout the supply chain. In collaboration with [DXC](https://www.dxc.technology/).
