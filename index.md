@@ -13,7 +13,7 @@ In June 2020 I graduated from a Master's degree in that same field, majoring in 
 
 In 2019, I started to plan my early steps in what I hope to be a career in which I can 
 1. Excel on a daily level
-2. Bring value to the employer 
+2. Bring value to the community I am residing in, whether that is professionaly or personally
 3. Do what I love
 
 
@@ -30,8 +30,8 @@ If all goes well, I'll be in London when Autumn 2021 starts, and I'll be enjoyin
 
 
 Interesting to know is that during the summer of 2020, I got involved with cryptocurrencies, Blockchain technology and Decentralized Finance. 
-This materialized into an internship at Keyrock: a blooming start-up that offers market making services and provides liquidity for digital assets. 
-Ideally, and in line with goal 3, I'll combine the Master's with more research into the digital asset space. 
+This materialized into an internship at Keyrock: a blooming start-up that offers market making services and provides liquidity for digital assets. That interest further materialized in a position at the [UCL Centre for Blockchain Technologies](http://blockchain.cs.ucl.ac.uk/), where I am currently providing assistance in research about [DeFi](https://www.coindesk.com/what-is-defi) and doing my own research in that same industry. 
+Ideally, and in line with goal 3, I'll continue to combine the Master's program next year with more research into the digital asset space. 
 Applying traditional finance methodologies could prove worthwhile in the intriguing world of Decentralized Finance.
 
 
