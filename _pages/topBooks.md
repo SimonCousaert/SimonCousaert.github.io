@@ -7,19 +7,20 @@ classes: wide
 ---
 ****
 
-## *1/ The Daily Stoic - Ryan Holiday*
 
-I got interested in Stoicism around 2018. Since then, my humble interest in philosophy has not ended, and I try to read about this topic from time to time. The Daily Stoic combines translations of Seneca, Epictetus, Zeno and more. The Stoic philosophy is something I truly appreciate, for its unique combination for both wisdom and practicality.
+## *1/ Sapiens: A Brief History of Humankind  - Yuval Noah Harari*
+
+The wide array of topics touched on in this book is what makes it my most favorite one. From the cognitive revolution to the scientific revolution, Harari's framework of human history is both inspiring as suprisingly fun to read (even though scholar critics are not really a fan of the work). Reading upon history and discovering how the status quo is set made me humble and studious. 
 
 
-## *2/ How to win friends and influence people - Dale Carnegie*
+## *2/ The Daily Stoic - Ryan Holiday*
+
+I got interested in Stoicism around 2018. Since then, my humble interest in philosophy has not ended, and I try to read about this topic from time to time. The Daily Stoic combines translations of Seneca, Epictetus, Zeno and more. The Stoic philosophy is something I truly appreciate, for its unique combination of wisdom and practicality.
+
+
+## *3/ How to win friends and influence people - Dale Carnegie*
 
 Even though the title of this book was not very convincing to me, the content absolutely was. Written in 1936, it is still relevant and a must-read for business people. The book combines vivid stories with actionable insights, through which the reader becomes more aware of the important causes and consequences of being a good friend, partner and leader.
-
-
-## *3/ What I Learned Losing a Million Dollars - Jim Paul*
-
-I like honest books. Jim Paul's story is not about how you become successful, it's about the need of successfully handling failures that ultimately leads to triumph. The series of events are strongly linked to the financial world, which made it even more applicable to me personally.
 
 
 ## *4/ The Black Swan: The Impact of the Highly Improbable - Nassim Nicholas Taleb*
