@@ -8,12 +8,17 @@ classes: wide
 
 ****
 
+## *Freelance, Full time @ Vesper Finance - Researcher/Data Analyst (April 2021 - ongoing)*
 
-## *6-month position @ UCL Centre for Blockchain Technology - Research Assistant (2021)*
+Researching business development and ecosystem activity in DeFi. Creating a small full Web stack (Postgresql database, Python script for analysis, JavaScript & HTML for webpage dashboard) with the goal of making Web3 data acccessible to the community.
 
-Full-time position. Research about various topics in DeFi, including
+
+## *Associate position @ UCL Centre for Blockchain Technology - Researcher (March 2021 - ongoing)*
+
+Research about various topics in DeFi, including
 - [SoK: Automated Market Maker (AMM) basedDecentralized Exchanges (DEXs)](https://arxiv.org/abs/2103.12732) -- Co-author -- Researching general framework for AMMs, based on AMM Preliminaries, Economics and Formalization of Mechanics
-- SoK: Yield Aggregators in DeFi -- Leading -- Creating a taxonomy of yield aggregating protocols and a general framework for strategies in yield farming by analyzing smart contracts of money legos in all layers
+- [SoK: Yield Aggregators in DeFi](https://arxiv.org/abs/2105.13891) -- Leading author -- Creating a taxonomy of yield aggregating protocols and a general framework for strategies in yield farming 
+
 
 ## *6-month Internship @ Keyrock - Business Analyst (2020-2021)*
 
